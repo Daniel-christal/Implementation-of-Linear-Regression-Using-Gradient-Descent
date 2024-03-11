@@ -58,14 +58,11 @@ print(f"Predicted value: {pre}")
 # Data Information
 ![image](https://github.com/Daniel-christal/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742847/d0d5b730-4954-4b08-b984-a1882f37db77)
 # Value of X
-![image](https://github.com/Daniel-christal/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742847/ecf0fb82-7afe-42e8-a958-bb20c46192ef)
-
-![image](https://github.com/Daniel-christal/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742847/03354e51-112e-40e5-aace-b7fa87d4caf5)
-
-
-
-
-
+![image](https://github.com/Daniel-christal/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742847/4b9ccc3a-5e3c-4043-a756-c8dd6db026d7)
+# Value of X1_Scaled
+![image](https://github.com/Daniel-christal/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742847/fc356268-0fad-4b21-82fa-2ef29d8aa034)
+# Predicted Value
+![image](https://github.com/Daniel-christal/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742847/934e8ad7-c14d-4cbb-a048-680c39fcdbe7)
 
 
 ## Result:
